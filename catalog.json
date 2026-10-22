@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-22",
+  "publishedAt": 1792653535531,
+  "channel": {
+    "name": "مشكاة التلاوة",
+    "latinName": "Mishkat",
+    "tagline": "نوادر تسجيلات التلاوة لكبار المقرئين، بصوتٍ مُصفّى",
+    "description": "صفحة متخصصة في نشر نوادر تسجيلات التلاوة لكبار المقرئين في العالم الإسلامي، بجودة عالية، وصوتٍ مُصفّى خالٍ من أصوات الجماهير، لتبقى أجواء التلاوة خاشعةً تليق بكلام الله سبحانه وتعالى.",
+    "supervisor": "أحمد القثمي"
+  },
+  "platforms": [
+    {
+      "id": "youtube",
+      "name": "يوتيوب",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@miishkat",
+      "handle": "@miishkat",
+      "note": "قناة مشكاة على يوتيوب",
+      "order": 1
+    },
+    {
+      "id": "telegram",
+      "name": "تيليجرام",
+      "icon": "telegram",
+      "url": "https://t.me/miishkkat",
+      "handle": "@miishkkat",
+      "note": "قناة مشكاة على تيليجرام",
+      "order": 2
+    },
+    {
+      "id": "soundcloud",
+      "name": "ساوند كلاود",
+      "icon": "soundcloud",
+      "url": "https://soundcloud.com/mishkatt",
+      "handle": "mishkatt",
+      "note": "حساب مشكاة على ساوند كلاود",
+      "order": 3
+    }
+  ],
+  "reciters": [
+    {
+      "id": "mohamed-omran",
+      "name": "الشيخ محمد عمران"
+    }
+  ],
+  "featured": [
+    "yt-RXL9XVlCtws",
+    "yt-Vlow-lh_4hQ",
+    "yt-9fsvt-YK7iE",
+    "yt-mgl5OQh-uBQ",
+    "yt-kwB9Lb9Awqw",
+    "yt-N5hj3Adie5I",
+    "yt-iSXI0jUSsUE",
+    "yt-xDvrPNVf6OI"
+  ],
+  "recitations": [
+    {
+      "id": "yt-RXL9XVlCtws",
+      "title": "من عجيب التلاوات \"بالجودة الأصلية\"",
+      "details": "36 - 68 · (منقاة) سُورة النساء",
+      "reciterId": "mohamed-omran",
+      "durationSec": 2008,
+      "addedAt": "2026-10-17",
+      "cover": "https://i.ytimg.com/vi/RXL9XVlCtws/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=RXL9XVlCtws"
+      },
+      "originalTitle": "من عجيب التلاوات \"بالجودة الأصلية\" | 36 - 68 | (منقاة) سُورة النساء - الشيخ محمد عمران"
+    },
+    {
+      "id": "yt-Vlow-lh_4hQ",
+      "title": "من التلاوات العطِرة",
+      "details": "36 - 43 · سورة النساء (مُنقاة)",
+      "reciterId": "mohamed-omran",
+      "durationSec": 1262,
+      "addedAt": "2026-10-02",
+      "cover": "https://i.ytimg.com/vi/Vlow-lh_4hQ/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Vlow-lh_4hQ"
+      },
+      "originalTitle": "من التلاوات العطِرة | 36 - 43 | سورة النساء (مُنقاة) الشيخ محمد عمران"
+    },
+    {
+      "id": "yt-9fsvt-YK7iE",
+      "title": "فكيفَ إذا جئنا من كُل أُمة بشهيد \"التلاوة كاملة\"",
+      "details": "36 - 41 · سورة النساء (مُنقاة)",
+      "reciterId": "mohamed-omran",
+      "durationSec": 964,
+      "addedAt": "2026-05-01",
+      "cover": "https://i.ytimg.com/vi/9fsvt-YK7iE/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=9fsvt-YK7iE"
+      },
+      "originalTitle": "فكيفَ إذا جئنا من كُل أُمة بشهيد \"التلاوة كاملة\" | 36 - 41 | سورة النساء (مُنقاة) - الشيخ محمد عمران"
+    },
+    {
+      "id": "yt-mgl5OQh-uBQ",
+      "title": "التلاوة الثانية لشريط الكاسيت النادر جدًا",
+      "details": "19 - 36 · (إذاعي) سُورة النساء",
+      "reciterId": "mohamed-omran",
+      "durationSec": 1759,
+      "addedAt": "2026-04-25",
+      "cover": "https://i.ytimg.com/vi/mgl5OQh-uBQ/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=mgl5OQh-uBQ"
+      },
+      "originalTitle": "التلاوة الثانية لشريط الكاسيت النادر جدًا | 19 - 36 | (إذاعي) سُورة النساء - الشيخ محمد عمران"
+    },
+    {
+      "id": "yt-kwB9Lb9Awqw",
+      "title": "من نوادر أشرطة الكاسيت النادرة",
+      "details": "1 - 19 · (إذاعي) سُورة النساء",
+      "reciterId": "mohamed-omran",
+      "durationSec": 1874,
+      "addedAt": "2026-04-24",
+      "cover": "https://i.ytimg.com/vi/kwB9Lb9Awqw/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kwB9Lb9Awqw"
+      },
+      "originalTitle": "من نوادر أشرطة الكاسيت النادرة | 1 - 19 | (إذاعي)  سُورة النساء -  الشيخ محمد عمران"
+    },
+    {
+      "id": "yt-N5hj3Adie5I",
+      "title": "من روائع الوقف والابتداء في آيات الأحكام",
+      "details": "1 - 11 · (مُنقّاة) سُورة النساء",
+      "reciterId": "mohamed-omran",
+      "durationSec": 1984,
+      "addedAt": "2026-04-23",
+      "cover": "https://i.ytimg.com/vi/N5hj3Adie5I/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=N5hj3Adie5I"
+      },
+      "originalTitle": "من روائع الوقف والابتداء في آيات الأحكام | 1 – 11 | (مُنقّاة) سُورة النساء – الشيخ محمد عمران"
+    },
+    {
+      "id": "yt-iSXI0jUSsUE",
+      "title": "تلاوة يسيرة نادرة",
+      "details": "1 - 2 · (مُنقاة) سُورة النساء",
+      "reciterId": "mohamed-omran",
+      "durationSec": 518,
+      "addedAt": "2026-04-22",
+      "cover": "https://i.ytimg.com/vi/iSXI0jUSsUE/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=iSXI0jUSsUE"
+      },
+      "originalTitle": "تلاوة يسيرة نادرة | 1 - 2 | (مُنقاة) سُورة النساء - الشيخ محمد عمران"
+    },
+    {
+      "id": "yt-xDvrPNVf6OI",
+      "title": "خِتام مُهيب من سورة آل عمران",
+      "reciterId": "mohamed-omran",
+      "durationSec": 34,
+      "addedAt": "2026-04-21",
+      "cover": "https://i.ytimg.com/vi/xDvrPNVf6OI/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=xDvrPNVf6OI"
+      },
+      "originalTitle": "خِتام مُهيب من سورة آل عمران | الشيخ محمد عمران رحمه الله"
+    },
+    {
+      "id": "yt-wlU-Mp1z6IU",
+      "title": "من بديع شيخنا رحمه الله",
+      "details": "185 - 200 · (مُنقاة) سُورة آل عمران",
+      "reciterId": "mohamed-omran",
+      "durationSec": 1780,
+      "addedAt": "2026-04-21",
+      "cover": "https://i.ytimg.com/vi/wlU-Mp1z6IU/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=wlU-Mp1z6IU"
+      },
+      "originalTitle": "من بديع شيخنا رحمه الله | 185 - 200 | (مُنقاة) سُورة آل عمران - الشيخ محمد عمران"
+    },
+    {
+      "id": "yt-37-YjBJfBrs",
+      "title": "عطر سمعك بهذهِ التلاوة",
+      "details": "129 - 148 · (مُنقاة) سورة آل عمران",
+      "reciterId": "mohamed-omran",
+      "durationSec": 1919,
+      "addedAt": "2026-04-20",
+      "cover": "https://i.ytimg.com/vi/37-YjBJfBrs/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=37-YjBJfBrs"
+      },
+      "originalTitle": "عطر سمعك بهذهِ التلاوة | 129 - 148 | (مُنقاة) سورة آل عمران - الشيخ محمد عمران"
+    },
+    {
+      "id": "yt-6ekGjBhgcpI",
+      "title": "آيات عظيمة في فضلِ القرآن",
+      "reciterId": "mohamed-omran",
+      "durationSec": 29,
+      "addedAt": "2026-04-20",
+      "cover": "https://i.ytimg.com/vi/6ekGjBhgcpI/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=6ekGjBhgcpI"
+      },
+      "originalTitle": "آيات عظيمة في فضلِ القرآن | الشيخ محمد عمران رحمه الله"
+    },
+    {
+      "id": "yt--6RaT_Q40Bc",
+      "title": "وَاللَّهُ عِندَهُ حُسْنُ الثَّوَابِ",
+      "reciterId": "mohamed-omran",
+      "durationSec": 78,
+      "addedAt": "2026-04-19",
+      "cover": "https://i.ytimg.com/vi/-6RaT_Q40Bc/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=-6RaT_Q40Bc"
+      },
+      "originalTitle": "وَاللَّهُ عِندَهُ حُسْنُ الثَّوَابِ | الشيخ محمد أحمد عمران"
+    },
+    {
+      "id": "yt-B9DOsLNcx5o",
+      "title": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ",
+      "reciterId": "mohamed-omran",
+      "durationSec": 27,
+      "addedAt": "2026-04-18",
+      "cover": "https://i.ytimg.com/vi/B9DOsLNcx5o/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=B9DOsLNcx5o"
+      },
+      "originalTitle": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ | الشيخ محمد عمران"
+    },
+    {
+      "id": "yt-18n4FNSlq2I",
+      "title": "تلاوة عجيبة وتُختتم بأذان صلاة الجُمعة 1991م",
+      "details": "33 - 46 · (مُنقاة) سُورة آل عمران",
+      "reciterId": "mohamed-omran",
+      "durationSec": 1151,
+      "addedAt": "2026-04-18",
+      "cover": "https://i.ytimg.com/vi/18n4FNSlq2I/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=18n4FNSlq2I"
+      },
+      "originalTitle": "تلاوة عجيبة وتُختتم بأذان صلاة الجُمعة 1991م | 33 - 46 | (مُنقاة) سُورة آل عمران - الشيخ محمد عمران"
+    },
+    {
+      "id": "yt-WBb_7hkevh0",
+      "title": "جمال الأداء المُتقن",
+      "details": "185 - 195 · (مُنقاة) سورة آل عمران",
+      "reciterId": "mohamed-omran",
+      "durationSec": 1305,
+      "addedAt": "2026-04-17",
+      "cover": "https://i.ytimg.com/vi/WBb_7hkevh0/maxresdefault.jpg",
+      "source": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=WBb_7hkevh0"
+      },
+      "originalTitle": "جمال الأداء المُتقن | 185 - 195 | (مُنقاة) سورة آل عمران - الشيخ محمد عمران"
+    }
+  ]
+}
