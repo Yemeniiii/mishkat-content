@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792751993026,
+  "publishedAt": 1792751996095,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -45,19 +45,6 @@
     }
   ],
   "recitations": [
-    {
-      "id": "yt-B9DOsLNcx5o",
-      "title": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ",
-      "reciterId": "mohamed-omran",
-      "durationSec": 27,
-      "addedAt": "2026-04-18",
-      "cover": "https://i.ytimg.com/vi/B9DOsLNcx5o/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=B9DOsLNcx5o"
-      },
-      "originalTitle": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ | الشيخ محمد عمران"
-    },
     {
       "id": "yt-18n4FNSlq2I",
       "title": "تلاوة عجيبة وتُختتم بأذان صلاة الجُمعة 1991م",
