@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792751974761,
+  "publishedAt": 1792751978608,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -44,23 +44,7 @@
       "name": "الشيخ محمد عمران"
     }
   ],
-  "featured": [
-    "yt-xDvrPNVf6OI"
-  ],
   "recitations": [
-    {
-      "id": "yt-xDvrPNVf6OI",
-      "title": "خِتام مُهيب من سورة آل عمران",
-      "reciterId": "mohamed-omran",
-      "durationSec": 34,
-      "addedAt": "2026-04-21",
-      "cover": "https://i.ytimg.com/vi/xDvrPNVf6OI/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=xDvrPNVf6OI"
-      },
-      "originalTitle": "خِتام مُهيب من سورة آل عمران | الشيخ محمد عمران رحمه الله"
-    },
     {
       "id": "yt-wlU-Mp1z6IU",
       "title": "من بديع شيخنا رحمه الله",
