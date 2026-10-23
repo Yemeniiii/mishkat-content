@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792751996095,
+  "publishedAt": 1792752059811,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -45,20 +45,6 @@
     }
   ],
   "recitations": [
-    {
-      "id": "yt-18n4FNSlq2I",
-      "title": "تلاوة عجيبة وتُختتم بأذان صلاة الجُمعة 1991م",
-      "details": "33 - 46 · (مُنقاة) سُورة آل عمران",
-      "reciterId": "mohamed-omran",
-      "durationSec": 1151,
-      "addedAt": "2026-04-18",
-      "cover": "https://i.ytimg.com/vi/18n4FNSlq2I/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=18n4FNSlq2I"
-      },
-      "originalTitle": "تلاوة عجيبة وتُختتم بأذان صلاة الجُمعة 1991م | 33 - 46 | (مُنقاة) سُورة آل عمران - الشيخ محمد عمران"
-    },
     {
       "id": "yt-WBb_7hkevh0",
       "title": "جمال الأداء المُتقن",
