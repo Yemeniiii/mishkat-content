@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792751987038,
+  "publishedAt": 1792751990057,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -45,19 +45,6 @@
     }
   ],
   "recitations": [
-    {
-      "id": "yt-6ekGjBhgcpI",
-      "title": "آيات عظيمة في فضلِ القرآن",
-      "reciterId": "mohamed-omran",
-      "durationSec": 29,
-      "addedAt": "2026-04-20",
-      "cover": "https://i.ytimg.com/vi/6ekGjBhgcpI/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=6ekGjBhgcpI"
-      },
-      "originalTitle": "آيات عظيمة في فضلِ القرآن | الشيخ محمد عمران رحمه الله"
-    },
     {
       "id": "yt--6RaT_Q40Bc",
       "title": "وَاللَّهُ عِندَهُ حُسْنُ الثَّوَابِ",
