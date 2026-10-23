@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22",
-  "publishedAt": 1792653535531,
+  "updatedAt": "2026-10-23",
+  "publishedAt": 1792751933391,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -45,7 +45,6 @@
     }
   ],
   "featured": [
-    "yt-RXL9XVlCtws",
     "yt-Vlow-lh_4hQ",
     "yt-9fsvt-YK7iE",
     "yt-mgl5OQh-uBQ",
@@ -55,20 +54,6 @@
     "yt-xDvrPNVf6OI"
   ],
   "recitations": [
-    {
-      "id": "yt-RXL9XVlCtws",
-      "title": "من عجيب التلاوات \"بالجودة الأصلية\"",
-      "details": "36 - 68 · (منقاة) سُورة النساء",
-      "reciterId": "mohamed-omran",
-      "durationSec": 2008,
-      "addedAt": "2026-10-17",
-      "cover": "https://i.ytimg.com/vi/RXL9XVlCtws/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=RXL9XVlCtws"
-      },
-      "originalTitle": "من عجيب التلاوات \"بالجودة الأصلية\" | 36 - 68 | (منقاة) سُورة النساء - الشيخ محمد عمران"
-    },
     {
       "id": "yt-Vlow-lh_4hQ",
       "title": "من التلاوات العطِرة",
