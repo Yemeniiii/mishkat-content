@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792752059811,
+  "publishedAt": 1792752063019,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -42,22 +42,6 @@
     {
       "id": "mohamed-omran",
       "name": "الشيخ محمد عمران"
-    }
-  ],
-  "recitations": [
-    {
-      "id": "yt-WBb_7hkevh0",
-      "title": "جمال الأداء المُتقن",
-      "details": "185 - 195 · (مُنقاة) سورة آل عمران",
-      "reciterId": "mohamed-omran",
-      "durationSec": 1305,
-      "addedAt": "2026-04-17",
-      "cover": "https://i.ytimg.com/vi/WBb_7hkevh0/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=WBb_7hkevh0"
-      },
-      "originalTitle": "جمال الأداء المُتقن | 185 - 195 | (مُنقاة) سورة آل عمران - الشيخ محمد عمران"
     }
   ]
 }
