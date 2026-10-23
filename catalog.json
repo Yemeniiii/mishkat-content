@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792751967655,
+  "publishedAt": 1792751970753,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -45,25 +45,10 @@
     }
   ],
   "featured": [
-    "yt-N5hj3Adie5I",
     "yt-iSXI0jUSsUE",
     "yt-xDvrPNVf6OI"
   ],
   "recitations": [
-    {
-      "id": "yt-N5hj3Adie5I",
-      "title": "من روائع الوقف والابتداء في آيات الأحكام",
-      "details": "1 - 11 · (مُنقّاة) سُورة النساء",
-      "reciterId": "mohamed-omran",
-      "durationSec": 1984,
-      "addedAt": "2026-04-23",
-      "cover": "https://i.ytimg.com/vi/N5hj3Adie5I/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=N5hj3Adie5I"
-      },
-      "originalTitle": "من روائع الوقف والابتداء في آيات الأحكام | 1 – 11 | (مُنقّاة) سُورة النساء – الشيخ محمد عمران"
-    },
     {
       "id": "yt-iSXI0jUSsUE",
       "title": "تلاوة يسيرة نادرة",
