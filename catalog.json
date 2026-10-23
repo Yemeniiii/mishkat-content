@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792785288536,
+  "publishedAt": 1792785470243,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -42,6 +42,33 @@
     {
       "id": "mohamed-omran",
       "name": "الشيخ محمد عمران"
+    }
+  ],
+  "featured": [
+    "r-mvle6hpi"
+  ],
+  "recitations": [
+    {
+      "id": "r-mvle6hpi",
+      "title": "سورة النساء | 36 - 68 |",
+      "details": "بجودة عالية جدًا (مُنقاة)",
+      "reciterId": "mohamed-omran",
+      "durationSec": 2008,
+      "addedAt": "2026-10-23",
+      "cover": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvle647h-___________.jpg",
+      "source": {
+        "type": "stream",
+        "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvle4wrg-______________________36-68_01.m4a"
+      },
+      "downloads": [
+        {
+          "type": "audio",
+          "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvle4wrg-______________________36-68_01.m4a",
+          "sizeBytes": 84718978,
+          "format": "m4a"
+        }
+      ],
+      "peaks": "jF4PV6cPkLcPsXOyttLPdg+Xlg96D6uwD8oPqLEPiw+/og+uc8kP1w/XD7mDD5+Ruw8P5avX0skP9WC0D7rZyqfpD4Vctw+QSg/Qxg9egA/UkxfHtaV1D3q6vbwPWtGjD6efvoUPjs+XizcPor//pfSfGNfLD0+3lQ/fnuDaGLoPD7e4D6agD9Tu4TWTYg/pD0gyD3Hg4Q+Lsw8PdM8PjA/FuA/W75YP1cgPxBno1rkPX7sP5lIP18MPlvgPca2Bkw+KVw/26GkPlnoPwVIPkEEPeQ+hD4bK15G9D3P6D7GPD5anDw+eoH6yD/9rq/+6"
     }
   ]
 }
