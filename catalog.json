@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792751978608,
+  "publishedAt": 1792751984132,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -45,20 +45,6 @@
     }
   ],
   "recitations": [
-    {
-      "id": "yt-wlU-Mp1z6IU",
-      "title": "من بديع شيخنا رحمه الله",
-      "details": "185 - 200 · (مُنقاة) سُورة آل عمران",
-      "reciterId": "mohamed-omran",
-      "durationSec": 1780,
-      "addedAt": "2026-04-21",
-      "cover": "https://i.ytimg.com/vi/wlU-Mp1z6IU/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=wlU-Mp1z6IU"
-      },
-      "originalTitle": "من بديع شيخنا رحمه الله | 185 - 200 | (مُنقاة) سُورة آل عمران - الشيخ محمد عمران"
-    },
     {
       "id": "yt-37-YjBJfBrs",
       "title": "عطر سمعك بهذهِ التلاوة",
