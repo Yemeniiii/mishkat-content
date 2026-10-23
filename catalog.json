@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792751940588,
+  "publishedAt": 1792751959566,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -45,7 +45,6 @@
     }
   ],
   "featured": [
-    "yt-9fsvt-YK7iE",
     "yt-mgl5OQh-uBQ",
     "yt-kwB9Lb9Awqw",
     "yt-N5hj3Adie5I",
@@ -53,20 +52,6 @@
     "yt-xDvrPNVf6OI"
   ],
   "recitations": [
-    {
-      "id": "yt-9fsvt-YK7iE",
-      "title": "فكيفَ إذا جئنا من كُل أُمة بشهيد \"التلاوة كاملة\"",
-      "details": "36 - 41 · سورة النساء (مُنقاة)",
-      "reciterId": "mohamed-omran",
-      "durationSec": 964,
-      "addedAt": "2026-05-01",
-      "cover": "https://i.ytimg.com/vi/9fsvt-YK7iE/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=9fsvt-YK7iE"
-      },
-      "originalTitle": "فكيفَ إذا جئنا من كُل أُمة بشهيد \"التلاوة كاملة\" | 36 - 41 | سورة النساء (مُنقاة) - الشيخ محمد عمران"
-    },
     {
       "id": "yt-mgl5OQh-uBQ",
       "title": "التلاوة الثانية لشريط الكاسيت النادر جدًا",
