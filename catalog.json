@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792751984132,
+  "publishedAt": 1792751987038,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -45,20 +45,6 @@
     }
   ],
   "recitations": [
-    {
-      "id": "yt-37-YjBJfBrs",
-      "title": "عطر سمعك بهذهِ التلاوة",
-      "details": "129 - 148 · (مُنقاة) سورة آل عمران",
-      "reciterId": "mohamed-omran",
-      "durationSec": 1919,
-      "addedAt": "2026-04-20",
-      "cover": "https://i.ytimg.com/vi/37-YjBJfBrs/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=37-YjBJfBrs"
-      },
-      "originalTitle": "عطر سمعك بهذهِ التلاوة | 129 - 148 | (مُنقاة) سورة آل عمران - الشيخ محمد عمران"
-    },
     {
       "id": "yt-6ekGjBhgcpI",
       "title": "آيات عظيمة في فضلِ القرآن",
