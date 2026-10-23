@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792751970753,
+  "publishedAt": 1792751974761,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -45,24 +45,9 @@
     }
   ],
   "featured": [
-    "yt-iSXI0jUSsUE",
     "yt-xDvrPNVf6OI"
   ],
   "recitations": [
-    {
-      "id": "yt-iSXI0jUSsUE",
-      "title": "تلاوة يسيرة نادرة",
-      "details": "1 - 2 · (مُنقاة) سُورة النساء",
-      "reciterId": "mohamed-omran",
-      "durationSec": 518,
-      "addedAt": "2026-04-22",
-      "cover": "https://i.ytimg.com/vi/iSXI0jUSsUE/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=iSXI0jUSsUE"
-      },
-      "originalTitle": "تلاوة يسيرة نادرة | 1 - 2 | (مُنقاة) سُورة النساء - الشيخ محمد عمران"
-    },
     {
       "id": "yt-xDvrPNVf6OI",
       "title": "خِتام مُهيب من سورة آل عمران",
