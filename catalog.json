@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792751963993,
+  "publishedAt": 1792751967655,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -45,26 +45,11 @@
     }
   ],
   "featured": [
-    "yt-kwB9Lb9Awqw",
     "yt-N5hj3Adie5I",
     "yt-iSXI0jUSsUE",
     "yt-xDvrPNVf6OI"
   ],
   "recitations": [
-    {
-      "id": "yt-kwB9Lb9Awqw",
-      "title": "من نوادر أشرطة الكاسيت النادرة",
-      "details": "1 - 19 · (إذاعي) سُورة النساء",
-      "reciterId": "mohamed-omran",
-      "durationSec": 1874,
-      "addedAt": "2026-04-24",
-      "cover": "https://i.ytimg.com/vi/kwB9Lb9Awqw/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=kwB9Lb9Awqw"
-      },
-      "originalTitle": "من نوادر أشرطة الكاسيت النادرة | 1 - 19 | (إذاعي)  سُورة النساء -  الشيخ محمد عمران"
-    },
     {
       "id": "yt-N5hj3Adie5I",
       "title": "من روائع الوقف والابتداء في آيات الأحكام",
