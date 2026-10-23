@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792752944386,
+  "publishedAt": 1792785288536,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -42,52 +42,6 @@
     {
       "id": "mohamed-omran",
       "name": "الشيخ محمد عمران"
-    }
-  ],
-  "featured": [
-    "r-mvkutcl9"
-  ],
-  "recitations": [
-    {
-      "id": "r-mvkutcl9",
-      "title": "من جمال الإتقان المحكم",
-      "details": "سورة النساء | 39 - 68 |",
-      "reciterId": "mohamed-omran",
-      "durationSec": 2008,
-      "addedAt": "2026-10-23",
-      "cover": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvkurnpp-__________________-________1_-_14.jpg",
-      "source": {
-        "type": "stream",
-        "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvkuond4-______________________36-68_01.wav"
-      },
-      "downloads": [
-        {
-          "type": "audio",
-          "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvkuond4-______________________36-68_01.wav",
-          "sizeBytes": 385456548,
-          "format": "wav"
-        },
-        {
-          "type": "audio",
-          "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvkus5n5-______________________36-68_01.wav",
-          "label": "جودة عالية (WAV)",
-          "sizeBytes": 385456548,
-          "format": "wav"
-        }
-      ],
-      "description": "بالجودة الأصلية",
-      "peaks": "jV4PV6cPkLcPsXOyttLPdg+Xlg96D6uxD8oPqLEPiw/Aog+uc8kP1w/XD7mDD5+Ruw8P5avX0skP9WC0D7rZyqjpD4Vctw+RSg/Qxg9egA/UkxfHtaV1D3q7vbwPWtGjD6efvoUPjs+XizcPor//pfSfGNfLD1C3lQ/fnuDaGLoPD7e4D6agD9Tu4TWTYg/pD0gyD3Hg4Q+Msw8PdM8PjA/FuA/W75YP1cgPxRno1rkPX7sP5lIP18MPlvgPca2Bkw+KVw/26GkPl3oPwVIPkEEPeQ+hD4bK15G9D3P6D7GPD5aoDw+eoH6yD/9rq/+6",
-      "segments": [
-        {
-          "surah": 4,
-          "fromAyah": 49,
-          "toAyah": 55,
-          "startSec": 50.0,
-          "endSec": 52.0,
-          "repeat": true,
-          "label": "الاية المشهورة"
-        }
-      ]
     }
   ]
 }
