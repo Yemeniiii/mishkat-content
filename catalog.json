@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792751959566,
+  "publishedAt": 1792751963993,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -45,27 +45,12 @@
     }
   ],
   "featured": [
-    "yt-mgl5OQh-uBQ",
     "yt-kwB9Lb9Awqw",
     "yt-N5hj3Adie5I",
     "yt-iSXI0jUSsUE",
     "yt-xDvrPNVf6OI"
   ],
   "recitations": [
-    {
-      "id": "yt-mgl5OQh-uBQ",
-      "title": "التلاوة الثانية لشريط الكاسيت النادر جدًا",
-      "details": "19 - 36 · (إذاعي) سُورة النساء",
-      "reciterId": "mohamed-omran",
-      "durationSec": 1759,
-      "addedAt": "2026-04-25",
-      "cover": "https://i.ytimg.com/vi/mgl5OQh-uBQ/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=mgl5OQh-uBQ"
-      },
-      "originalTitle": "التلاوة الثانية لشريط الكاسيت النادر جدًا | 19 - 36 | (إذاعي) سُورة النساء - الشيخ محمد عمران"
-    },
     {
       "id": "yt-kwB9Lb9Awqw",
       "title": "من نوادر أشرطة الكاسيت النادرة",
