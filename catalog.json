@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
-  "publishedAt": 1792751933391,
+  "publishedAt": 1792751940588,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -45,7 +45,6 @@
     }
   ],
   "featured": [
-    "yt-Vlow-lh_4hQ",
     "yt-9fsvt-YK7iE",
     "yt-mgl5OQh-uBQ",
     "yt-kwB9Lb9Awqw",
@@ -54,20 +53,6 @@
     "yt-xDvrPNVf6OI"
   ],
   "recitations": [
-    {
-      "id": "yt-Vlow-lh_4hQ",
-      "title": "من التلاوات العطِرة",
-      "details": "36 - 43 · سورة النساء (مُنقاة)",
-      "reciterId": "mohamed-omran",
-      "durationSec": 1262,
-      "addedAt": "2026-10-02",
-      "cover": "https://i.ytimg.com/vi/Vlow-lh_4hQ/maxresdefault.jpg",
-      "source": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=Vlow-lh_4hQ"
-      },
-      "originalTitle": "من التلاوات العطِرة | 36 - 43 | سورة النساء (مُنقاة) الشيخ محمد عمران"
-    },
     {
       "id": "yt-9fsvt-YK7iE",
       "title": "فكيفَ إذا جئنا من كُل أُمة بشهيد \"التلاوة كاملة\"",
