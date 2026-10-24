@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24",
-  "publishedAt": 1792793986536,
+  "updatedAt": "2026-10-25",
+  "publishedAt": 1792883415615,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -42,12 +42,39 @@
     {
       "id": "mohamed-omran",
       "name": "الشيخ محمد عمران"
+    },
+    {
+      "id": "rec-mvn0ht8e",
+      "name": "مشاري راشد العفاسي"
     }
   ],
   "featured": [
+    "r-mvn0hsqt",
     "r-mvle6hpi"
   ],
   "recitations": [
+    {
+      "id": "r-mvn0hsqt",
+      "title": "ابتهال مشاري راشد العفاسي",
+      "details": "نادرة جدًا",
+      "reciterId": "rec-mvn0ht8e",
+      "durationSec": 70,
+      "addedAt": "2026-10-25",
+      "cover": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvn0hmhp-______________________.jpg",
+      "source": {
+        "type": "stream",
+        "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvn0h00h-eqra2oh.mp3"
+      },
+      "downloads": [
+        {
+          "type": "audio",
+          "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvn0h00h-eqra2oh.mp3",
+          "sizeBytes": 1184943,
+          "format": "mp3"
+        }
+      ],
+      "peaks": "jaTPw8ako6GNQA9dD3iixLeUiJFPDw8P/+DJrLweTJyiYq6XxKN2Y3UPbG+QQw8PDw8P16ffes388OQPDw90kvHp6W9aTEMPD4nO/f355WoP4dFSlbYPkZmzqbPSlg8PD7e5jdLhpz0wDw8PybCm3OF7MzAPDw//v66IwA+RXvH/xOEUtbdzfUfXrJN9jsHUy82toJF5Dw8PD2CaxNKKqGQeDw8a9evQobMUfbm1Z6Orya1sahN3h4yqurnKwcOZn6WLJA9vD4Cpw7SSkotADw8P/N3FpcEWYqadaLSgzJx3al4PY2yHLg8PDw8PDw8P"
+    },
     {
       "id": "r-mvle6hpi",
       "title": "سورة النساء | 36 - 68 |",
