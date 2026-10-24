@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-25",
-  "publishedAt": 1792883415615,
+  "publishedAt": 1792883547352,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -49,10 +49,33 @@
     }
   ],
   "featured": [
+    "r-mvn0kmjm",
     "r-mvn0hsqt",
     "r-mvle6hpi"
   ],
   "recitations": [
+    {
+      "id": "r-mvn0kmjm",
+      "title": "ابتهال جديد مشاري العفاسي",
+      "details": "نادرة جدا",
+      "reciterId": "rec-mvn0ht8e",
+      "durationSec": 49,
+      "addedAt": "2026-10-25",
+      "cover": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvn0kdkw-________________-____________.jpg",
+      "source": {
+        "type": "stream",
+        "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvn0jsue-bkt_3iny_w7g_lha.mp3"
+      },
+      "downloads": [
+        {
+          "type": "audio",
+          "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvn0jsue-bkt_3iny_w7g_lha.mp3",
+          "sizeBytes": 300127,
+          "format": "mp3"
+        }
+      ],
+      "peaks": "D5+DD8LSn6OYl6ehmg8PDw+ZrA/30c/ga0fB4anCwR0PDw8PD+Pd+NT/5bFxWc3k0s1wyMSz54adsbK50rannBEPDw8PnaenqpOFfIiqzseDf3O+c7nB//z2pZOHDw8PD9PQl7yIeerXKa6nh3eEh1VueJODgkEPDw8Pq5/q4uP4yNiYSatt2XG924mKYyWaDw8PD8ivYs2y7v9yepBtwYOunqpdl6CtLg8PD3qpi1ghj7atqpkuho5+rHGEdICGh3d6kY15Dw8PX+DfsZKb6NmwiIl0foWhkoo+d4WFkoeMiIWDkYMyDw8PDw8PDw8P"
+    },
     {
       "id": "r-mvn0hsqt",
       "title": "ابتهال مشاري راشد العفاسي",
