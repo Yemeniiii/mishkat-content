@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25",
-  "publishedAt": 1792883547352,
+  "updatedAt": "2026-10-26",
+  "publishedAt": 1792998282081,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -122,10 +122,9 @@
     }
   ],
   "home": [
-    "new",
-    "reciters",
-    "virtues",
     "date",
-    "platforms"
+    "new",
+    "virtues",
+    "reciters"
   ]
 }
