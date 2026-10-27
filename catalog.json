@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27",
-  "publishedAt": 1793084074986,
+  "updatedAt": "2026-10-28",
+  "publishedAt": 1793134962155,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -123,9 +123,12 @@
   ],
   "home": [
     "date",
-    "new",
     "virtues",
-    "reciters"
+    "new",
+    "reciters",
+    "mushafs",
+    "anasheed",
+    "-platforms"
   ],
   "thaqib": {
     "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/media/mvqbyln2-thaqib-1793084072592.bin.gz",
