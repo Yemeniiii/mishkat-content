@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-28",
-  "publishedAt": 1793139467625,
+  "publishedAt": 1793139514759,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -123,8 +123,8 @@
   ],
   "home": [
     "prayer",
-    "new",
     "date",
+    "new",
     "virtues",
     "reciters",
     "mushafs",
