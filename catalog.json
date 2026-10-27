@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-28",
-  "publishedAt": 1793139386874,
+  "publishedAt": 1793139401095,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -124,8 +124,8 @@
   "home": [
     "prayer",
     "date",
-    "virtues",
     "new",
+    "virtues",
     "reciters",
     "mushafs",
     "anasheed",
