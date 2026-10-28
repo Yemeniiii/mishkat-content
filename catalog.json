@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-29",
-  "publishedAt": 1793222125294,
+  "publishedAt": 1793229610795,
   "channel": {
     "name": "مشكاة التلاوة",
     "latinName": "Mishkat",
@@ -140,16 +140,16 @@
   },
   "prints": [
     {
-      "riwaya": "warsh",
-      "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/prints/warsh-1793136621983.mpk",
-      "version": 1793136621983,
-      "sizeBytes": 38211768
-    },
-    {
       "riwaya": "shouba",
       "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/prints/shouba-1793139354709.mpk",
       "version": 1793139354709,
       "sizeBytes": 36114130
+    },
+    {
+      "riwaya": "warsh",
+      "url": "https://github.com/Yemeniiii/mishkat-content/releases/download/prints/warsh-1793229599872.mpk",
+      "version": 1793229599872,
+      "sizeBytes": 37854993
     }
   ]
 }
